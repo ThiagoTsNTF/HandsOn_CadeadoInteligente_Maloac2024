@@ -1,0 +1,4 @@
+Problemas: Botões não respondendo, buzzer parou de responder, RFID não registrando mais de um cartão.
+
+
+Modificação: troca de resistores, botão abandonado
